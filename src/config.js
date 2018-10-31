@@ -18,6 +18,6 @@ CartONG.config.webmap = {
     opacity: 0.8,
     fill: true,
     fillColor: '#00796B',
-    fillOpacity: 0.3
+    fillOpacity: 0
   }
 };
