@@ -13,7 +13,7 @@ CartONG.config.webmap = {
   dataURL: 'data/data.geojson',
   style: {
     stroke: true,
-    color: '#00796B',
+    color: '#FF5733',
     weight: 1.5,
     opacity: 0.8,
     fill: true,
